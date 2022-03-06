@@ -1,0 +1,1 @@
+recyclerview example with view binding
